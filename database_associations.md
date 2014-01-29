@@ -19,6 +19,7 @@ Belongs to User
 Has many Beds
 
 ## Bed
+- Name - String
 - Garden Id - int
 - Width - int
 - Depth - int
